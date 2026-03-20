@@ -1,6 +1,6 @@
-# RandVenueOS
+# RandsVenueOS
 
-**RandVenueOS** is a comprehensive venue management and event dashboard system built for managing ticket sales, queues, cashless events, and more. This system integrates multiple modules such as Rands Tickets, Ticket Channels, QLess Queue Management, E-commerce, Shisha Lounge management, Rands Wallet, and Private Label branding.
+**RandsVenueOS** is a comprehensive venue management and event dashboard system built for managing ticket sales, queues, cashless events, and more. This system integrates multiple modules such as Rands Tickets, Ticket Channels, QLess Queue Management, E-commerce, Shisha Lounge management, Rands Wallet, and Private Label branding.
 
 ---
 
